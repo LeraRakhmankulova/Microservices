@@ -1,1 +1,0 @@
-# Build, deploy and scale an eCommerce microservices app using Node, React, Docker and Kubernetes.
